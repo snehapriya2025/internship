@@ -1,0 +1,10 @@
+personal access token
+
+1.goto acccount> settings
+2.developer settings
+3.personal access tokens
+4.crate a new personal acesss token> name a pat
+5.set expiry for accesss token>save
+
+
+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
